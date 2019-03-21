@@ -21,4 +21,6 @@ And if i want to convert this mysqli connection to PDO it should be like that:
 ![Adsız](https://user-images.githubusercontent.com/43685404/54750344-61fd5900-4be8-11e9-9857-6d232379d3ad.png)
 
 ## Shopping.php ## 
-I made all other stuff except database in here. I've just got include 'connect.php' to my page.
+I made all other stuff except database in here. I've just got include 'connect.php' to my page. And finally my interface appears like that,
+
+![image](https://user-images.githubusercontent.com/43685404/54751100-f10b7080-4bea-11e9-8c17-bb95096f9923.png)
